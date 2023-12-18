@@ -1,0 +1,49 @@
+C:\Users\user\source\repos\Restaurant part 1\bin\Debug\Restaurant part 1.exe.config
+C:\Users\user\source\repos\Restaurant part 1\bin\Debug\Restaurant part 1.exe
+C:\Users\user\source\repos\Restaurant part 1\bin\Debug\Restaurant part 1.pdb
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant part 1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant_part_1.Form1.resources
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant_part_1.Properties.Resources.resources
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant part 1.exe
+C:\Users\user\source\repos\Restaurant part 1\obj\Debug\Restaurant part 1.pdb
+C:\Users\user\Desktop\Restaurant part 1\bin\Debug\Restaurant part 1.exe.config
+C:\Users\user\Desktop\Restaurant part 1\bin\Debug\Restaurant part 1.exe
+C:\Users\user\Desktop\Restaurant part 1\bin\Debug\Restaurant part 1.pdb
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant part 1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant_part_1.Form1.resources
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant_part_1.Properties.Resources.resources
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant part 1.exe
+C:\Users\user\Desktop\Restaurant part 1\obj\Debug\Restaurant part 1.pdb
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe.config
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.pdb
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Form1.resources
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Properties.Resources.resources
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.exe
+C:\Users\user\Desktop\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.pdb
+F:\C# Videos\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe.config
+F:\C# Videos\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe
+F:\C# Videos\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.pdb
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.AssemblyReference.cache
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Form1.resources
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Properties.Resources.resources
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.GenerateResource.cache
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.CoreCompileInputs.cache
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.exe
+F:\C# Videos\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.pdb
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe.config
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.exe
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.pdb
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Form1.resources
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant_part_1.Properties.Resources.resources
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\obj\Debug\Restaurant part 1.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.exe
+C:\Users\Asus\Documents\C#  Projects\Restaurant part 1\bin\Debug\Restaurant part 1.pdb
