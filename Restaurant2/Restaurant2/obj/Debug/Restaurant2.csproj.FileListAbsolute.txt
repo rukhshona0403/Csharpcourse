@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.exe
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\bin\Debug\Restaurant2.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.exe
+c:\users\asus\documents\visual studio 2013\Projects\Restaurant2\Restaurant2\obj\Debug\Restaurant2.pdb
