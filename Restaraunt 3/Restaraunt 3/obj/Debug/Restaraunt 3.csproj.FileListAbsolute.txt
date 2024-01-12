@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\bin\Debug\Restaraunt 3.exe.config
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\bin\Debug\Restaraunt 3.exe
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\bin\Debug\Restaraunt 3.pdb
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt 3.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt_3.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt_3.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt 3.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt 3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt 3.exe
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraunt 3\Restaraunt 3\obj\Debug\Restaraunt 3.pdb
