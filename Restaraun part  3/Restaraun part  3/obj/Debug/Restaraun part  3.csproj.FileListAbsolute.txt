@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\bin\Debug\Restaraun part  3.exe.config
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\bin\Debug\Restaraun part  3.exe
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\bin\Debug\Restaraun part  3.pdb
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun part  3.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun_part__3.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun_part__3.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun part  3.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun part  3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun part  3.exe
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Restaraun part  3\Restaraun part  3\obj\Debug\Restaraun part  3.pdb
